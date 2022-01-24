@@ -1,3 +1,8 @@
 ## Playwright demo
 
-Make a change to the Button.css and then run `yarn playwright test`
+```
+> npm start
+> yarn playwright test
+```
+
+Make a change to `Button.css` and then re-run the playwright test
