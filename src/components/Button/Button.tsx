@@ -1,1 +1,5 @@
-export const Button = ({ label }) => <button>{label}</button>;
+import "./Button.css";
+
+export const Button = ({ label }) => (
+  <button className="button">{label}</button>
+);
